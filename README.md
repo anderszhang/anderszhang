@@ -11,7 +11,7 @@
 
 ### 🛠 Tools I use
 
-![Tools I use](https://skillicons.dev/icons?i=docker,vscode,linux,,mysql,jest,rollup,vite,git,github)
+![Tools I use](https://skillicons.dev/icons?i=docker,vscode,linux,mysql,jest,rollup,vite,git,github)
 
 <!--
 **anderszhang/anderszhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
